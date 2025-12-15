@@ -2,7 +2,7 @@
 
 ## Additional Labs
 
-Additional labs located here - https://github.com/rtrader58/Microsoft-Master-AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop <br>
+Additional labs located here - https://github.com/rtrader58/AZ-900T0x-MicrosoftAzureFundamentals <br>
 These labs will require the use of an Azure Trial Subscription <br>
 
 ### Create a disposable Microsoft Account.  (A trial subscription can on be obtained once per Microsoft Account)
@@ -21,7 +21,6 @@ a.	Write your password down so you don’t forget it this week<br>
 11.	Leave the Outlook page open for the next set of steps<br>
 
 ### Creating an Azure Trial Subscription 
-
 
 1. Go to the following link - https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account <br>
 2. Click on Try Azure for free <br>
