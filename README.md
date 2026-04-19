@@ -1,7 +1,7 @@
 # AZ-900T00 Introduction to Cloud Infrastructure
 
 ### This repository is provided as a reference
-### Updated 12/31/2023
+### Updated 11/30/2025
 
 This repository is maintained by Rick Trader<br>
 Interface Technical Training<br>
