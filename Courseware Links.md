@@ -67,7 +67,7 @@ Azure Service Health - https://azure.microsoft.com/en-us/services/monitor/ <br>
 
 https://learn.microsoft.com/training/paths/introduction-cloud-infrastructure-apply-azure-skills-guided-projects <br>
 
-# Note: To ba able to accomplish the Applied Skills Exercise you will need to provide your own Azure Subscription
+# Note: To be able to accomplish the Applied Skills Exercise you will need to provide your own Azure Subscription
 
 ## Addditional Resource Links
 
