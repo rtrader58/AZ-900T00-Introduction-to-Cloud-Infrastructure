@@ -5,7 +5,12 @@
 Additional labs located here - https://github.com/rtrader58/AZ-900T0x-MicrosoftAzureFundamentals <br>
 These labs will require the use of an Azure Trial Subscription <br>
 
-### Create a disposable Microsoft Account.  (A trial subscription can on be obtained once per Microsoft Account)
+## Notes: 
+
+A trial subscription can on be obtained once per Microsoft Account per 365 days <br>
+A credit card will be required to create a trial subscription - a credit card can only be once <br>
+
+### Create a disposable Microsoft Account.  
 
 1,  Use browser of choice to http://www.Outlook.com<br>
 2.	On the Sign in page, click Create one<br>
