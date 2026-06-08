@@ -65,6 +65,8 @@ Azure Service Health - https://azure.microsoft.com/en-us/services/monitor/ <br>
 
 ## Learning path 04: Apply Azure Skills in Guided Projects
 
+The students can complete the additional guided projects using a Bring Your Own Subscription model from Microsoft Learn at any time.
+
 https://learn.microsoft.com/training/paths/introduction-cloud-infrastructure-apply-azure-skills-guided-projects <br>
 
 # Note: To be able to accomplish the Applied Skills Exercise you will need to provide your own Azure Subscription

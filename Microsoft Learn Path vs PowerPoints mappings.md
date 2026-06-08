@@ -22,3 +22,12 @@ Module 2: Describe features and tools in Azure for governance and compliance - h
 Module 3: Describe features and tools for managing and deploying Azure resources- https://learn.microsoft.com/en-us/training/modules/describe-features-tools-manage-deploy-azure-resources/<br>
 Module 4: Describe monitoring tools in Azure - https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/ <br>
 
+## Learning path 04: Apply Azure Skills in Guided Projects
+
+This guided project set is provided to provide OPTIONS for practical activities during class. It is NOT expected that you complete all guided projects during class. Given the breadth of content.
+
+The students can complete the additional guided projects using a Bring Your Own Subscription model from Microsoft Learn at any time.
+
+https://learn.microsoft.com/training/paths/introduction-cloud-infrastructure-apply-azure-skills-guided-projects <br>
+
+# Note: To be able to accomplish the Applied Skills Exercise you will need to provide your own Azure Subscription
