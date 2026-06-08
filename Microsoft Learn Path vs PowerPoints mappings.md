@@ -53,4 +53,4 @@ https://learn.microsoft.com/training/modules/guided-project-monitor-service-heal
 Guided project: Manage Azure resources with Cloud Shell and the Azure CLI <br>
 https://learn.microsoft.com/training/modules/guided-project-manage-resources-cloud-shell-cli/1-introduction <br>
 
-# Note: To be able to accomplish the Applied Skills Exercise you will need to provide your own Azure Subscription
+# Note: To be able to accomplish the Applied Skills Exercises you will need to provide your own Azure Subscription
