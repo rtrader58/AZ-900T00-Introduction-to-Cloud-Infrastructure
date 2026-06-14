@@ -65,7 +65,7 @@ Azure Service Health - https://azure.microsoft.com/en-us/services/monitor/ <br>
 
 ## Learning path 04: Apply Azure Skills in Guided Projects
 
-This guided project set is provided to provide OPTIONS for practical activities during class. It is NOT expected that you complete the guided projects during class. Given the breadth of content. Students can complete the guided projects using a Bring Your Own Subscription model from Microsoft Learn at any time.  <br>
+This guided project set is provided to provide OPTIONS for practical activities after class. It is NOT expected that you complete the guided projects during class. Given the breadth of content. Students can complete the guided projects using a Bring Your Own Subscription model from Microsoft Learn at any time.  <br>
 
 Guided project: Deploy a static website with Azure Blob Storage <br>
 https://learn.microsoft.com/training/paths/introduction-cloud-infrastructure-apply-azure-skills-guided-projects <br>
