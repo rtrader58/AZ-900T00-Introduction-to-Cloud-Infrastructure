@@ -1,6 +1,6 @@
 # Azure Applied Skills in Guided Projects Links
 
-This guided project set is provided to provide OPTIONS for practical activities during class. It is NOT expected that you complete the guided projects during class. Given the breadth of content. Students can complete the guided projects using a Bring Your Own Subscription model from Microsoft Learn at any time.  <br>
+This guided project set is provided to provide OPTIONS for practical activities after class. It is NOT expected that you complete the guided projects during class. Given the breadth of content. Students can complete the guided projects using a Bring Your Own Subscription model from Microsoft Learn at any time.  <br>
 
 # Note: To be able to accomplish the Applied Skills Exercises you will need to provide your own Azure Subscription
 
