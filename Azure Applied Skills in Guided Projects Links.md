@@ -4,6 +4,9 @@ This guided project set is provided to provide OPTIONS for practical activities 
 
 # Note: To be able to accomplish the Applied Skills Exercises you will need to provide your own Azure Subscription
 
+Learn URL: https://learn.microsoft.com/training/paths/introduction-cloud-infrastructure-apply-azure-skills-guided-projects/ <br>
+
+
 Guided project: Deploy a static website with Azure Blob Storage <br>
 https://learn.microsoft.com/training/paths/introduction-cloud-infrastructure-apply-azure-skills-guided-projects <br>
 
