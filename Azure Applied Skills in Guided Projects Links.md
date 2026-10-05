@@ -35,8 +35,9 @@ a.	Write your password down so you don’t forget it this week<br>
 
 Link to cancel and delete an Azure Trial Subscription - https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/cancel-azure-subscription <br>
 
-Learn URL: https://learn.microsoft.com/training/paths/introduction-cloud-infrastructure-apply-azure-skills-guided-projects/ <br>
 
+# Azure Applied Skills in Guided Projects Links
+Learn URL: https://learn.microsoft.com/training/paths/introduction-cloud-infrastructure-apply-azure-skills-guided-projects/ <br>
 
 Guided project: Deploy a static website with Azure Blob Storage <br>
 https://learn.microsoft.com/training/paths/introduction-cloud-infrastructure-apply-azure-skills-guided-projects <br>
